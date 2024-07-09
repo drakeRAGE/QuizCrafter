@@ -1,3 +1,6 @@
+![image](https://github.com/drakeRAGE/MCQ-Game/assets/145892326/eb5dc1da-5d98-4ce4-9901-939d9ef83479)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
